@@ -11,6 +11,7 @@ gem "puma", "~> 5.0"
 
 # use active record
 gem "sinatra-activerecord"
+gem "http"
 
 group :development do
   gem "better_errors"
